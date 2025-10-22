@@ -1,6 +1,6 @@
-# SSLMkcert (Ubuntu)
+# SSLMkcert 
 
-Guia simples para configurar **SSL local no Nginx** usando **mkcert** em ambiente **Ubuntu**.
+Guia simples para configurar **SSL local no Nginx** usando **mkcert** .
 
 ---
 
@@ -93,7 +93,7 @@ Reinicie o Nginx:
 sudo systemctl restart nginx
 ```
 
-Agora abra o navegador e acesse o seu IP (exemplo: `https://192.168.0.10`) ou `https://gcsi.local` — seu projeto estará rodando com **SSL ativo**. 😁
+Agora abra o navegador e acesse o seu IP (exemplo: `https://192.168.0.10`) ou `https://gcsi.local` — seu projeto estará rodando com **SSL ativo**. 
 
 ---
 
